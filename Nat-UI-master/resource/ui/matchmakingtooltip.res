@@ -1,1 +1,0 @@
-#base 	"matchmakingtooltip_natalie.res"
